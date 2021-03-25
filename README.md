@@ -1,4 +1,4 @@
-# Awesome tgcalls [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Telegram Calls [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of projects for Telegram Calls ✨
 
