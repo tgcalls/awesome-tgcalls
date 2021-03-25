@@ -30,5 +30,5 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [TGVCBOT](https://github.com/thehamkercat/Telegram_VC_Bot) - A bot that can play music from various sources in VC.
 - [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) - A Voice Chat UserBot with playlist and Heroku support.
 - [callsmusic/callsmusic-1](https://github.com/callsmusic/callsmusic-1) - A bot based on [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) with queue & multiple chats support.
-- [callsmusic/callsmusic-2](https://github.com/callsmusic/callsmusic-2) - Same as above, but based on [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls).
+- [callsmusic/callsmusic-2](https://github.com/callsmusic/callsmusic-2) - A [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls)-based bot with queue & YouTube support.
 - [callsmusic/vcpb](https://github.com/callsmusic/vcpb) - A bot which requires a Telegram client running separately to forward the audio played via MPV (supports streaming radio).
