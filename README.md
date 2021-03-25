@@ -17,6 +17,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 ## Libraries
 
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - A python library for playing music in voice chats. Supports recording, multiply chats, volume control, pause/resume, mute/unmute, speaking status.
+- [tgcallsjs/tgcalls](https://github.com/tgcallsjs/tgcalls) - A Node.js library for playing music in voice chats.
 
 ## Chats
 
@@ -29,3 +30,4 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 
 - [TGVCBOT](https://github.com/thehamkercat/Telegram_VC_Bot) - A bot that can play music from various sources in VC.
 - [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) - A Voice Chat UserBot with playlist and Heroku support.
+- [tgcallsjs/LemonJamsBot](https://github.com/tgcallsjs/LemonJamsBot) - A bot/userbot that plays music in voice chats and isbased on tgcallsjs.
