@@ -20,10 +20,10 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 
 ## Chats
 
-- [@vcradio](https://t.me/vcradio) - A demo chat with radio station "Europa Plus TV".
 - [@RadioInTG](https://t.me/radiointg) - Radio station in the channel with music from NoCopyrightSounds.
-- [@tginfofm](https://t.me/tginfofm) - A radio station playing tracks from affiliated channels.
 - [@VCSets](https://t.me/VCSets) - A group for listening EDM DJ/Live Sets through voice chat and music related discussion.
+- [@tginfofm](https://t.me/tginfofm) - A radio station playing tracks from affiliated channels.
+- [@vcradio](https://t.me/vcradio) - A demo chat with radio station "Europa Plus TV".
 
 ## Bots
 
