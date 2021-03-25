@@ -21,3 +21,4 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 
 - [@vcradio](https://t.me/vcradio) - A demo chat with radio station "Europa Plus TV".
 - [@RadioInTG](https://t.me/radiointg) - Radio station in the channel with music from NoCopyrightSounds.
+- [@tginfofm](https://t.me/tginfofm) - A radio station playing tracks from affiliated channels.
