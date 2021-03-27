@@ -17,6 +17,8 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 ## Libraries
 
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - A python library for playing music in voice chats. Supports recording, multiply chats, volume control, pause/resume, mute/unmute, speaking status.
+- [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls) - A Simple Async client API for the Telegram Group Calls. Features: unlimited voice chats, volume control, pause/resume, Low Cpu Usage (For 2 core processor), Adjustable Bitrate, Join As Channel, Custom HTTP Remote Api, Live Stream and Live FFMpeg Support and Anti-Floodwait.
+
 
 ## Chats
 
@@ -24,6 +26,8 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [@RadioInTG](https://t.me/radiointg) - Radio station in the channel with music from NoCopyrightSounds.
 - [@tginfofm](https://t.me/tginfofm) - A radio station playing tracks from affiliated channels.
 - [@VCSets](https://t.me/VCSets) - A group for listening EDM DJ/Live Sets through voice chat and music related discussion.
+- [@GroupsMusicNetwork](https://t.me/GroupsMusicNetwork) - Official network of [Groups Music Bot](https://t.me/GroupsMusicBot).
+
 
 ## Bots
 
@@ -32,3 +36,5 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [callsmusic/callsmusic-1](https://github.com/callsmusic/callsmusic-1) - A bot based on [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) with queue & multiple chats support.
 - [callsmusic/callsmusic-2](https://github.com/callsmusic/callsmusic-2) - A [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls)-based bot with queue & YouTube support.
 - [callsmusic/vcpb](https://github.com/callsmusic/vcpb) - A bot which requires a Telegram client running separately to forward the audio played via MPV (supports streaming radio).
+- [@GroupsMusicBot](https://t.me/GroupsMusicBot) - Bot can play music from YouTube based on [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls), more info at the [website](https://skivee-cdn.tappo03.it/).
+
