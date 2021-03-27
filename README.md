@@ -36,5 +36,5 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [callsmusic/callsmusic-1](https://github.com/callsmusic/callsmusic-1) - A bot based on [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) with queue & multiple chats support.
 - [callsmusic/callsmusic-2](https://github.com/callsmusic/callsmusic-2) - A [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls)-based bot with queue & YouTube support.
 - [callsmusic/vcpb](https://github.com/callsmusic/vcpb) - A bot which requires a Telegram client running separately to forward the audio played via MPV (supports streaming radio).
-- [@GroupsMusicBot](https://t.me/GroupsMusicBot) - Bot can play music from youtube with a dasboard based on [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls).
+- [@GroupsMusicBot](https://t.me/GroupsMusicBot) - Bot can play music from YouTube with a dasboard based on [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls).
 
