@@ -17,6 +17,8 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 ## Libraries
 
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - A python library for playing music in voice chats. Supports recording, multiply chats, volume control, pause/resume, mute/unmute, speaking status.
+- [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls) - A Simple Async client API for the Telegram Group Calls. Features: unlimited voice chats, volume control, pause/resume, Low Cpu Usage (For 2 core processor), Adjustable Bitrate, Join As Channel, Custom HTTP Remote Api, Live Stream and Live FFMpeg Support and Anti-Floodwait
+
 
 ## Chats
 
@@ -24,6 +26,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [@RadioInTG](https://t.me/radiointg) - Radio station in the channel with music from NoCopyrightSounds.
 - [@tginfofm](https://t.me/tginfofm) - A radio station playing tracks from affiliated channels.
 - [@VCSets](https://t.me/VCSets) - A group for listening EDM DJ/Live Sets through voice chat and music related discussion.
+- [@GroupsMusicNetwork](https://t.me/GroupsMusicNetwork) - [Groups Music Bot](https://t.me/GroupsMusicBot) official network for ask question about the bot based on [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls)
 
 ## Bots
 
