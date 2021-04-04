@@ -27,6 +27,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [@tginfofm](https://t.me/tginfofm) - A radio station playing tracks from affiliated channels.
 - [@VCSets](https://t.me/VCSets) - A group for listening EDM DJ/Live Sets through voice chat and music related discussion.
 - [@GroupsMusicNetwork](https://t.me/GroupsMusicNetwork) - Official network of `Groups Music Bot`.
+- [@QuranRadio](https://t.me/QuranRadio) - A Channal for stream The Holy Quran 24/7.
 
 ## Bots
 
