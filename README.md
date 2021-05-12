@@ -28,7 +28,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [@VCSets](https://t.me/VCSets?voicechat) - A group for listening EDM DJ/Live Sets through voice chat and music related discussion.
 - [@GroupsMusicNetwork](https://t.me/GroupsMusicNetwork) - Official network of `Groups Music Bot`.
 - [@QuranRadio](https://t.me/QuranRadio?voicechat) - A channel for stream The Holy Quran 24/7.
-- [@animec](https://t.me/animec?voicechat) - A channel with a lofi hip hop radio stream 24/ with [displaying current track name in voice chat title](https://user-images.githubusercontent.com/50372801/117834972-9ce9fd00-b245-11eb-8189-526b98d14b00.png).
+- [@animec](https://t.me/animec?voicechat) - A channel with a lofi hip hop radio stream 24/7 with [displaying current track name in voice chat title](https://user-images.githubusercontent.com/50372801/117834972-9ce9fd00-b245-11eb-8189-526b98d14b00.png).
 - [@trapfm](https://t.me/trapfm?voicechat) - A channel with a Trap (subgenre of hip hop) radio stream 24/7.
 
 ## Bots
