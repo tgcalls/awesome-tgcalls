@@ -35,6 +35,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 
 - [TGVCBOT](https://github.com/thehamkercat/Telegram_VC_Bot) - A bot that can play music from various sources in VC.
 - [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) - A Voice Chat UserBot with playlist and Heroku support.
+- [YuiHirasawaMusicBot](https://github.com/Yeagerist-Music-Streamer-Bot-V3/YuiHirasawaMusicBot) - Yui Hirasawa Is A Anime theme music Streamer in telegram VC With playlists, Multi Playback, Channel play and more.
 - [callsmusic/callsmusic](https://github.com/callsmusic/callsmusic) - A bot based on `MarshalX/tgcalls` with queue & multiple chats support.
 - [callsmusic/callsmusic2](https://github.com/callsmusic/callsmusic2) - A `Telegraf` bot and a `GramJS` userbot which uses `tgcallsjs` to stream in group calls.
 - [callsmusic/vcpb](https://github.com/callsmusic/vcpb) - A bot which requires a Telegram client running separately to forward the audio played via MPV (supports streaming radio).
