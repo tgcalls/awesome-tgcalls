@@ -31,6 +31,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [@animec](https://t.me/animec?voicechat) - A channel with a lofi hip hop radio stream 24/7 with [displaying current track name in voice chat title](https://user-images.githubusercontent.com/50372801/117834972-9ce9fd00-b245-11eb-8189-526b98d14b00.png).
 - [@trapfm](https://t.me/trapfm?voicechat) - A channel with a Trap (subgenre of hip hop) radio stream 24/7.
 - [@PlayAStream](https://t.me/PlayAStream) - A channel with Indian Radio and Indian News Channels, streaming 24/7.
+- [@subin_works](https://t.me/subin_works?voicechat) - A channel with Malayalam music streaming 24/7.
 
 ## Bots
 
@@ -43,3 +44,4 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [tgcallsjs/LemonJamsBot](https://github.com/tgcallsjs/LemonJamsBot) - A userbot that plays music in voice chats and is based on `tgcallsjs`.
 - [YuiHirasawaMusicBot](https://github.com/Yeagerist-Music-Streamer-Bot-V3/YuiHirasawaMusicBot) - Yui Hirasawa Is A Anime theme music Streamer in telegram VC With playlists, Multi Playback, Channel play and more.
 - [Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) - Just a userbot with a module for voice chats.
+- [MusicPlayer](https://github.com/subinps/MusicPlayer) - A bot based on `MarshalX/tgcalls` to play music/radio/YouTube live streams 24/7 in channels and groups.
