@@ -42,3 +42,4 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [@GroupsMusicBot](https://t.me/GroupsMusicBot) - Bot can play music from YouTube based on `pytgcalls/pytgcalls`, more info at the [website](https://skivee-cdn.tappo03.it/).
 - [tgcallsjs/LemonJamsBot](https://github.com/tgcallsjs/LemonJamsBot) - A userbot that plays music in voice chats and is based on `tgcallsjs`.
 - [YuiHirasawaMusicBot](https://github.com/Yeagerist-Music-Streamer-Bot-V3/YuiHirasawaMusicBot) - Yui Hirasawa Is A Anime theme music Streamer in telegram VC With playlists, Multi Playback, Channel play and more.
+- [Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) - Just a userbot with a module for voice chats.
