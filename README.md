@@ -30,6 +30,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [@QuranRadio](https://t.me/QuranRadio?voicechat) - A channel for stream The Holy Quran 24/7.
 - [@animec](https://t.me/animec?voicechat) - A channel with a lofi hip hop radio stream 24/7 with [displaying current track name in voice chat title](https://user-images.githubusercontent.com/50372801/117834972-9ce9fd00-b245-11eb-8189-526b98d14b00.png).
 - [@trapfm](https://t.me/trapfm?voicechat) - A channel with a Trap (subgenre of hip hop) radio stream 24/7.
+- [@PlayAStream](https://t.me/PlayAStream) - A channel with Indian Radio and Indian News Channels, streaming 24/7.
 
 ## Bots
 
