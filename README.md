@@ -33,6 +33,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [@PlayAStream](https://t.me/PlayAStream) - A channel with Indian Radio and Indian News Channels, streaming 24/7.
 - [@subin_works](https://t.me/subin_works?voicechat) - A channel with Malayalam music streaming 24/7.
 - [@RadioPortal](https://t.me/RadioPortal) - A collection channel with 10 German Radio-Channels streaming 24/7.
+- [@CapitalLondonRadio](https://t.me/CapitalLondonRadio?voicechat) - A demo chat with radio station "Capital London Radio' 24/7.
 
 ## Bots
 
