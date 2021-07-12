@@ -37,6 +37,8 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 ## Bots
 
 - [TGVCBOT](https://github.com/thehamkercat/Telegram_VC_Bot) - A bot that can play music from various sources in VC.
+- [DaisyXMusic](https://github.com/TeamDaisyX/DaisyXMusic) - A bot that can play music on Telegram Group and Channel Voice Chats.
+- [Vc-Userbot](https://github.com/Moezilla/vcuser-bot) - A Voice Chat Userbot That Can Play Music And Heroku Support
 - [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) - A Voice Chat UserBot with playlist and Heroku support.
 - [callsmusic/callsmusic](https://github.com/callsmusic/callsmusic) - A bot based on `MarshalX/tgcalls` with queue & multiple chats support.
 - [callsmusic/callsmusic2](https://github.com/callsmusic/callsmusic2) - A `Telegraf` bot and a `GramJS` userbot which uses `tgcallsjs` to stream in group calls.
