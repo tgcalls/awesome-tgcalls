@@ -19,7 +19,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - A python library for playing music in voice chats. Supports recording, multiply chats, volume control, pause/resume, mute/unmute, speaking status.
 - [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls) - A simple async client for the Telegram group calls with API. Features: unlimited voice chats, volume control, pause/resume, low CPU usage (for 2 core processors), adjustable bitrate, join as channel, custom HTTP remote API, live stream and live FFmpeg support, anti-floodwait.
 - [tgcallsjs/tgcalls](https://github.com/tgcallsjs/tgcalls) - A Node.js library for playing music in voice chats.
-- [tgcallsjs/gram-tgcalls](https://github.com/tgcallsjs/gram-tgcalls) A library that connects tgcallsjs and [GramJS](https://github.com/gram-js/gramjs) to make it easier for you work with tgcallsjs.
+- [tgcallsjs/gram-tgcalls](https://github.com/tgcallsjs/gram-tgcalls) - A library that connects tgcallsjs and [GramJS](https://github.com/gram-js/gramjs) to make it easier for you work with tgcallsjs.
 
 ## Chats
 
