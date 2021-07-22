@@ -47,3 +47,4 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [YuiHirasawaMusicBot](https://github.com/Yeagerist-Music-Streamer-Bot-V3/YuiHirasawaMusicBot) - Yui Hirasawa Is A Anime theme music Streamer in telegram VC With playlists, Multi Playback, Channel play and more.
 - [Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) - Just a userbot with a module for voice chats.
 - [MusicPlayer](https://github.com/subinps/MusicPlayer) - A bot based on `MarshalX/tgcalls` to play music/radio/YouTube live streams 24/7 in channels and groups.
+- [Tl-Radio](https://github.com/nitanmarcel/tl_radio) - Telegram UserBot to play and stream audio to telegram group chat using YoutubeDl and TgCalls.
