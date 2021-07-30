@@ -21,6 +21,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [tgcallsjs/tgcalls](https://github.com/tgcallsjs/tgcalls) - A Node.js library for playing music in voice chats.
 - [tgcallsjs/gram-tgcalls](https://github.com/tgcallsjs/gram-tgcalls) - A library that connects tgcallsjs and [GramJS](https://github.com/gram-js/gramjs) to make it easier for you work with tgcallsjs.
 - [gotgcalls/gotgcalls](https://github.com/gotgcalls/gotgcalls) - An efficient Go wrapper for gram-tgcalls.
+- [rojserbest/ytdl-core-telegram](https://github.com/rojserbest/ytdl-core-telegram) - A [ytdl-core](https://github.com/fent/node-ytdl-core) wrapper focused on efficiency for use in Telegram music bots.
 
 ## Chats
 
