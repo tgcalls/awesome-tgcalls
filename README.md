@@ -36,6 +36,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [@PlayAStream](https://t.me/PlayAStream) - A channel with Indian Radio and Indian News Channels, streaming 24/7.
 - [@subin_works](https://t.me/subin_works?voicechat) - A channel with Malayalam music streaming 24/7.
 - [@RadioPortal](https://t.me/RadioPortal) - A collection channel with 10 German Radio-Channels streaming 24/7.
+- [@AsmSafone](https://t.me/AsmSafone?voicechat) - A channel with Bengali & Hindi music streaming 24/7.
 
 ## Bots
 
@@ -49,3 +50,4 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) - Just a userbot with a module for voice chats.
 - [MusicPlayer](https://github.com/subinps/MusicPlayer) - A bot based on `MarshalX/tgcalls` to play music/radio/YouTube live streams 24/7 in channels and groups.
 - [Tl-Radio](https://github.com/nitanmarcel/tl_radio) - Telegram UserBot to play and stream audio to telegram group chat using YoutubeDl and TgCalls.
+- [RadioPlayer](https://github.com/AsmSafone/RadioPlayer) - A telegram bot to play music/radio/live streams 24/7 in the voice chat of channels and groups.
