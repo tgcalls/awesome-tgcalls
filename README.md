@@ -37,6 +37,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [@subin_works](https://t.me/subin_works?voicechat) - A channel with Malayalam music streaming 24/7.
 - [@RadioPortal](https://t.me/RadioPortal) - A collection channel with 10 German Radio-Channels streaming 24/7.
 - [@MwKLinks](https://t.me/MwKLinks?voicechat) - A channel with best collection of south indian music streaming 24/7.
+- [@AsmSafone](https://t.me/AsmSafone?voicechat) - A channel with Bengali & Hindi music streaming 24/7.
 
 ## Bots
 
@@ -51,3 +52,4 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [MusicPlayer](https://github.com/subinps/MusicPlayer) - A bot based on `MarshalX/tgcalls` to play music/radio/YouTube live streams 24/7 in channels and groups.
 - [Tl-Radio](https://github.com/nitanmarcel/tl_radio) - Telegram UserBot to play and stream audio to telegram group chat using YoutubeDl and TgCalls.
 - [MwK-Musics](https://github.com/shamilhabeebnelli/MwK-Musics) - A bot to play radio/YouTube live streams 24/7 in channels and groups.
+- [RadioPlayer](https://github.com/AsmSafone/RadioPlayer) - A telegram bot to play music/radio/live streams 24/7 in the voice chat of channels and groups.
