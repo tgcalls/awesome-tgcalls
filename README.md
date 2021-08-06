@@ -53,3 +53,4 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [Tl-Radio](https://github.com/nitanmarcel/tl_radio) - Telegram UserBot to play and stream audio to telegram group chat using YoutubeDl and TgCalls.
 - [MwK-Musics](https://github.com/shamilhabeebnelli/MwK-Musics) - A bot to play radio/YouTube live streams 24/7 in channels and groups.
 - [RadioPlayer](https://github.com/AsmSafone/RadioPlayer) - A telegram bot to play music/radio/live streams 24/7 in the voice chat of channels and groups.
+- [Ohto Ai](https://github.com/Zack-Bloodshot/Ohto-Ai) - Yet another awesome, anime based, deployable, multi group, music bot based on `MarshalX/tgcalls`.
