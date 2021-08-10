@@ -4,11 +4,12 @@
 
 The repository contains useful information for Telegram users who is looking for chats with music, libraries, userbots and bots for working with calls! 
 
-Feel free to improve this list by [contributing](CONTRIBUTING.md).
-
 ## Contents
 
 - [Libraries](#libraries)
+- [Dev channels](#dev-channels)
+- [Channels](#channels)
+- [Dev chats](#dev-chats)
 - [Chats](#chats)
 - [Bots](#bots)
 
@@ -23,21 +24,32 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [gotgcalls/gotgcalls](https://github.com/gotgcalls/gotgcalls) - An efficient Go wrapper for gram-tgcalls.
 - [rojserbest/ytdl-core-telegram](https://github.com/rojserbest/ytdl-core-telegram) - A [ytdl-core](https://github.com/fent/node-ytdl-core) wrapper focused on efficiency for use in Telegram music bots.
 
+## Dev channels
+
+- [@tgcallslib](https://t.me/tgcallslib) - Incoming, outgoing and video calls, voice chats in Telegram for users and developers. Information about chats, bots. libs and Telegram updates.
+
+## Channels
+
+- [@RadioInTG](https://t.me/radiointg?voicechat) - Radio station in the channel with music from NoCopyrightSounds.
+- [@GroupsMusicNetwork](https://t.me/GroupsMusicNetwork) - Official network of `Groups Music Bot`.
+- [@QuranRadio](https://t.me/QuranRadio?voicechat) - A channel for stream The Holy Quran.
+- [@animec](https://t.me/animec?voicechat) - A channel with a lofi hip hop radio stream with [displaying current track name in voice chat title](https://user-images.githubusercontent.com/50372801/117834972-9ce9fd00-b245-11eb-8189-526b98d14b00.png).
+- [@trapfm](https://t.me/trapfm?voicechat) - A channel with a Trap (subgenre of hip hop) radio stream.
+- [@PlayAStream](https://t.me/PlayAStream) - A channel with Indian Radio.
+- [@subin_works](https://t.me/subin_works?voicechat) - A channel with Malayalam music.
+- [@MwKLinks](https://t.me/MwKLinks?voicechat) - A channel with the best collection of south indian music streaming.
+- [@AsmSafone](https://t.me/AsmSafone?voicechat) - A channel with Bengali & Hindi music streaming.
+
+## Dev chats
+
+- [@pytgcallschat](https://t.me/tgcallschat) - A chat with a community of developers that helps to each other with developing via `MarshalX/tgcalls` lib.
+
 ## Chats
 
 - [@vcradio](https://t.me/vcradio?voicechat) - A demo chat with radio station "Europa Plus TV".
-- [@RadioInTG](https://t.me/radiointg?voicechat) - Radio station in the channel with music from NoCopyrightSounds.
 - [@tginfofm](https://t.me/tginfofm?voicechat) - A radio station playing tracks from affiliated channels.
 - [@VCSets](https://t.me/VCSets?voicechat) - A group for listening EDM DJ/Live Sets through voice chat and music related discussion.
-- [@GroupsMusicNetwork](https://t.me/GroupsMusicNetwork) - Official network of `Groups Music Bot`.
-- [@QuranRadio](https://t.me/QuranRadio?voicechat) - A channel for stream The Holy Quran 24/7.
-- [@animec](https://t.me/animec?voicechat) - A channel with a lofi hip hop radio stream 24/7 with [displaying current track name in voice chat title](https://user-images.githubusercontent.com/50372801/117834972-9ce9fd00-b245-11eb-8189-526b98d14b00.png).
-- [@trapfm](https://t.me/trapfm?voicechat) - A channel with a Trap (subgenre of hip hop) radio stream 24/7.
-- [@PlayAStream](https://t.me/PlayAStream) - A channel with Indian Radio and Indian News Channels, streaming 24/7.
-- [@subin_works](https://t.me/subin_works?voicechat) - A channel with Malayalam music streaming 24/7.
 - [@RadioPortal](https://t.me/RadioPortal) - A collection channel with 10 German Radio-Channels streaming 24/7.
-- [@MwKLinks](https://t.me/MwKLinks?voicechat) - A channel with best collection of south indian music streaming 24/7.
-- [@AsmSafone](https://t.me/AsmSafone?voicechat) - A channel with Bengali & Hindi music streaming 24/7.
 
 ## Bots
 
