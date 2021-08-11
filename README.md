@@ -70,4 +70,4 @@ The repository contains useful information for Telegram users who is looking for
 
 ## Others
 
-- [callsmusic/bridges] - Experimental bridges between Telegram calls and other platforms & softwares.
+- [callsmusic/bridges](https://github.com/callsmusic/bridges) - Experimental bridges between Telegram calls and other platforms & softwares.
