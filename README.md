@@ -12,6 +12,7 @@ The repository contains useful information for Telegram users who is looking for
 - [Dev chats](#dev-chats)
 - [Chats](#chats)
 - [Bots](#bots)
+- [Others](#others)
 
 ---
 
@@ -66,3 +67,7 @@ The repository contains useful information for Telegram users who is looking for
 - [MwK-Musics](https://github.com/shamilhabeebnelli/MwK-Musics) - A bot to play radio/YouTube live streams 24/7 in channels and groups.
 - [RadioPlayer](https://github.com/AsmSafone/RadioPlayer) - A telegram bot to play music/radio/live streams 24/7 in the voice chat of channels and groups.
 - [Ohto Ai](https://github.com/Zack-Bloodshot/Ohto-Ai) - Yet another awesome, anime based, deployable, multi group, music bot based on `MarshalX/tgcalls`.
+
+## Others
+
+- [callsmusic/bridges](https://github.com/callsmusic/bridges) - Experimental bridges between Telegram calls and other platforms & softwares.
