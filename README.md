@@ -55,6 +55,8 @@ The repository contains useful information for Telegram users who is looking for
 ## Bots
 
 - [TGVCBOT](https://github.com/thehamkercat/Telegram_VC_Bot) - A bot that can play music from various sources in VC.
+- [DaisyXMusic](https://github.com/TeamDaisyX/DaisyXMusic) - A bot that can play music on Telegram Group and Channel Voice Chats.
+- [Vc-Userbot](https://github.com/Moezilla/vcuser-bot) - A Voice Chat Userbot That Can Play Music And Heroku Support
 - [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) - A Voice Chat UserBot with playlist and Heroku support.
 - [callsmusic/remix](https://github.com/callsmusic/remix) - A bot that uses `gram-tgcalls` and `ytdl-core-telegram` to let you stream any kind of YouTube videos, including live ones and those in playlists along with audio files.
 - [callsmusic/vcpb](https://github.com/callsmusic/vcpb) - A bot which requires a Telegram client running separately to forward the audio played via MPV (supports streaming radio).
