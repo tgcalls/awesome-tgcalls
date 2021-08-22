@@ -54,7 +54,7 @@ The repository contains useful information for Telegram users who is looking for
 
 ## Bots
 
-- [TGVCBOT](https://github.com/thehamkercat/Telegram_VC_Bot) - A bot that can play music from various sources in VC.
+- [TheHamkerCat/Telegram_VC_Bot](https://github.com/thehamkercat/Telegram_VC_Bot) - A bot that can play music from various sources in VC.
 - [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) - A Voice Chat UserBot with playlist and Heroku support.
 - [callsmusic/remix](https://github.com/callsmusic/remix) - A bot that uses `gram-tgcalls` and `ytdl-core-telegram` to let you stream any kind of YouTube videos, including live ones and those in playlists along with audio files.
 - [callsmusic/vcpb](https://github.com/callsmusic/vcpb) - A bot which requires a Telegram client running separately to forward the audio played via MPV (supports streaming radio).
@@ -67,6 +67,7 @@ The repository contains useful information for Telegram users who is looking for
 - [MwK-Musics](https://github.com/shamilhabeebnelli/MwK-Musics) - A bot to play radio/YouTube live streams 24/7 in channels and groups.
 - [RadioPlayer](https://github.com/AsmSafone/RadioPlayer) - A telegram bot to play music/radio/live streams 24/7 in the voice chat of channels and groups.
 - [Ohto Ai](https://github.com/Zack-Bloodshot/Ohto-Ai) - Yet another awesome, anime based, deployable, multi group, music bot based on `MarshalX/tgcalls`.
+- [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) - A telegram bot (+userbot) written in TypeScript to play music in group voice chat. Supports JioSaavn, YouTube and Files.
 
 ## Others
 
