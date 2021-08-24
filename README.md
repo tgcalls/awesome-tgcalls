@@ -51,6 +51,7 @@ The repository contains useful information for Telegram users who is looking for
 - [@tginfofm](https://t.me/tginfofm?voicechat) - A radio station playing tracks from affiliated channels.
 - [@VCSets](https://t.me/VCSets?voicechat) - A group for listening EDM DJ/Live Sets through voice chat and music related discussion.
 - [@RadioPortal](https://t.me/RadioPortal) - A collection channel with 10 German Radio-Channels streaming 24/7.
+- [@CapitalLondonRadio](https://t.me/CapitalLondonRadio?voicechat) - A demo chat with radio station "Capital London Radio' 24/7.
 
 ## Bots
 
