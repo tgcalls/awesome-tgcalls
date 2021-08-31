@@ -55,9 +55,9 @@ The repository contains useful information for Telegram users who is looking for
 ## Bots
 
 - [TheHamkerCat/Telegram_VC_Bot](https://github.com/thehamkercat/Telegram_VC_Bot) - A bot that can play music from various sources in VC.
-- [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) - A Voice Chat UserBot with playlist and Heroku support.
-- [callsmusic/remix](https://github.com/callsmusic/remix) - A bot that uses `gram-tgcalls` and `ytdl-core-telegram` to let you stream any kind of YouTube videos, including live ones and those in playlists along with audio files.
-- [callsmusic/vcpb](https://github.com/callsmusic/vcpb) - A bot which requires a Telegram client running separately to forward the audio played via MPV (supports streaming radio).
+- [callsmusic/tgvc-userbot](https://gitlab.com/callsmusic/tgvc-userbot) - A Voice Chat UserBot with playlist and Heroku support.
+- [callsmusic/remix](https://gitlab.com/callsmusic/remix) - A bot that uses `gram-tgcalls` and `ytdl-core-telegram` to let you stream any kind of YouTube videos, including live ones and those in playlists, audio files and radios or links.
+- [callsmusic/vcpb](https://gitlab.com/callsmusic/vcpb) - A bot which requires a Telegram client running separately to forward the audio played via MPV (supports streaming radio).
 - [@GroupsMusicBot](https://t.me/GroupsMusicBot) - Bot can play music from YouTube based on `pytgcalls/pytgcalls`, more info at the [website](https://skivee-cdn.tappo03.it/).
 - [tgcallsjs/LemonJamsBot](https://github.com/tgcallsjs/LemonJamsBot) - A userbot that plays music in voice chats and is based on `tgcallsjs`.
 - [YuiHirasawaMusicBot](https://github.com/Yeagerist-Music-Streamer-Bot-V3/YuiHirasawaMusicBot) - Yui Hirasawa Is A Anime theme music Streamer in telegram VC With playlists, Multi Playback, Channel play and more.
@@ -71,4 +71,4 @@ The repository contains useful information for Telegram users who is looking for
 
 ## Others
 
-- [callsmusic/bridges](https://github.com/callsmusic/bridges) - Experimental bridges between Telegram calls and other platforms & software.
+- [callsmusic/bridges](https://gitlab.com/callsmusic/bridges) - Experimental bridges between Telegram calls and other platforms & software.
