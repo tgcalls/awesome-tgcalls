@@ -69,7 +69,7 @@ The repository contains useful information for Telegram users who is looking for
 - [Ohto Ai](https://github.com/Zack-Bloodshot/Ohto-Ai) - Yet another awesome, anime based, deployable, multi group, music bot based on `MarshalX/tgcalls`.
 - [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) - A telegram bot (+userbot) written in TypeScript to play music in group voice chat. Supports JioSaavn, YouTube and Files.
 - [Yui Vidio Player](https://t.me/Yuividioplayerbot) - A advanced Anime Theme VC Video Player created for playing vidio in the voice chats of Telegram Groups.
-- [Video Player Bot](https://github.com/AsmSafone/VideoPlayerBot) - An Advanced Video Player Bot based on `MarshalX/tgcalls` is created for streaming lives/youtube video/video files in the voice chat of channels & groups.
+- [Video Player Bot](https://github.com/AsmSafone/VideoPlayerBot) - An Advanced Video Player Bot based on `MarshalX/tgcalls` is created for streaming lives/YouTube video/video files in the voice chat of channels & groups.
 
 ## Others
 
