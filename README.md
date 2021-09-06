@@ -51,6 +51,7 @@ The repository contains useful information for Telegram users who is looking for
 - [@tginfofm](https://t.me/tginfofm?voicechat) - A radio station playing tracks from affiliated channels.
 - [@VCSets](https://t.me/VCSets?voicechat) - A group for listening EDM DJ/Live Sets through voice chat and music related discussion.
 - [@RadioPortal](https://t.me/RadioPortal) - A collection channel with 10 German Radio-Channels streaming 24/7.
+- [@voicechatsupport](https://t.me/voicechatsupport) - A demo chat for trying out VCPlayerBot Features.
 
 ## Bots
 
@@ -70,6 +71,7 @@ The repository contains useful information for Telegram users who is looking for
 - [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) - A telegram bot (+userbot) written in TypeScript to play music in group voice chat. Supports JioSaavn, YouTube and Files.
 - [Yui Vidio Player](https://t.me/Yuividioplayerbot) - A advanced Anime Theme VC Video Player created for playing vidio in the voice chats of Telegram Groups.
 - [Video Player Bot](https://github.com/AsmSafone/VideoPlayerBot) - An Advanced Video Player Bot based on `MarshalX/tgcalls` is created for streaming lives/YouTube video/video files in the voice chat of channels & groups.
+- [VCPlayerbot Bot](https://github.com/kshubham506/vcplayerbot) - An Audio/Video Player Bot based on `MarshalX/tgcalls`(Video player is in dev branch). It can stream any YouTube video, maintain song queue, has admin lock feature and also logs songs played and chats added in db. 
 
 ## Others
 
