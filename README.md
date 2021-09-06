@@ -71,7 +71,7 @@ The repository contains useful information for Telegram users who is looking for
 - [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) - A telegram bot (+userbot) written in TypeScript to play music in group voice chat. Supports JioSaavn, YouTube and Files.
 - [Yui Vidio Player](https://t.me/Yuividioplayerbot) - A advanced Anime Theme VC Video Player created for playing vidio in the voice chats of Telegram Groups.
 - [Video Player Bot](https://github.com/AsmSafone/VideoPlayerBot) - An Advanced Video Player Bot based on `MarshalX/tgcalls` is created for streaming lives/YouTube video/video files in the voice chat of channels & groups.
-- [VCPlayerbot Bot](https://github.com/kshubham506/vcplayerbot) - An Audio/Video Player Bot based on `MarshalX/tgcalls`( Video player is in dev branch ). It can stream any youtube video, maintain song queue, has admin lock feature and also logs songs played and chats added in db. 
+- [VCPlayerbot Bot](https://github.com/kshubham506/vcplayerbot) - An Audio/Video Player Bot based on `MarshalX/tgcalls`(Video player is in dev branch). It can stream any YouTube video, maintain song queue, has admin lock feature and also logs songs played and chats added in db. 
 
 ## Others
 
