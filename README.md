@@ -65,7 +65,6 @@ The repository contains useful information for Telegram users who is looking for
 - [MusicPlayer](https://github.com/subinps/MusicPlayer) - A bot based on `MarshalX/tgcalls` to play music/radio/YouTube live streams 24/7 in channels and groups.
 - [Tl-Radio](https://github.com/nitanmarcel/tl_radio) - Telegram UserBot to play and stream audio to telegram group chat using YoutubeDl and TgCalls.
 - [MwK-Musics](https://github.com/shamilhabeebnelli/MwK-Musics) - A bot to play radio/YouTube live streams 24/7 in channels and groups.
-- [RadioPlayer](https://github.com/AsmSafone/RadioPlayer) - A telegram bot to play music/radio/live streams 24/7 in the voice chat of channels and groups.
 - [Ohto Ai](https://github.com/Zack-Bloodshot/Ohto-Ai) - Yet another awesome, anime based, deployable, multi group, music bot based on `MarshalX/tgcalls`.
 - [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) - A telegram bot (+userbot) written in TypeScript to play music in group voice chat. Supports JioSaavn, YouTube and Files.
 - [Yui Vidio Player](https://t.me/Yuividioplayerbot) - A advanced Anime Theme VC Video Player created for playing vidio in the voice chats of Telegram Groups.
