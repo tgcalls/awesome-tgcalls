@@ -60,7 +60,6 @@ The repository contains useful information for Telegram users who is looking for
 - [callsmusic/vcpb](https://github.com/callsmusic/vcpb) - A bot which requires a Telegram client running separately to forward the audio played via MPV (supports streaming radio).
 - [@GroupsMusicBot](https://t.me/GroupsMusicBot) - Bot can play music from YouTube based on `pytgcalls/pytgcalls`, more info at the [website](https://skivee-cdn.tappo03.it/).
 - [tgcallsjs/LemonJamsBot](https://github.com/tgcallsjs/LemonJamsBot) - A userbot that plays music in voice chats and is based on `tgcallsjs`.
-- [YuiHirasawaMusicBot](https://github.com/Yeagerist-Music-Streamer-Bot-V3/YuiHirasawaMusicBot) - Yui Hirasawa Is A Anime theme music Streamer in telegram VC With playlists, Multi Playback, Channel play and more.
 - [Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) - Just a userbot with a module for voice chats.
 - [MusicPlayer](https://github.com/subinps/MusicPlayer) - A bot based on `MarshalX/tgcalls` to play music/radio/YouTube live streams 24/7 in channels and groups.
 - [Tl-Radio](https://github.com/nitanmarcel/tl_radio) - Telegram UserBot to play and stream audio to telegram group chat using YoutubeDl and TgCalls.
