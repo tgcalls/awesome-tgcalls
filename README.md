@@ -10,6 +10,7 @@ The repository contains useful information for Telegram users who are looking fo
 - [Libraries](#libraries)
 - [Dev chats](#dev-chats)
 - [Open Source bots](#open-source-bots)
+- [Bots](#bots)
 - [Music chats and channels](#music-chats-and-channels)
 - [Others](#others)
 
