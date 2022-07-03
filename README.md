@@ -56,6 +56,7 @@ The repository contains useful information for Telegram users who are looking fo
 - [@AsmSafone](https://t.me/AsmSafone?voicechat) - A channel with Bengali & Hindi music streaming.
 - [@tginfofm](https://t.me/tginfofm?voicechat) - A radio station playing tracks from affiliated channels.
 - [@voicechatsupport](https://t.me/voicechatsupport) - A demo chat for trying out VCPlayerBot Features.
+- [@animec](https://t.me/animec?voicechat) - A channel with a lofi hip hop radio stream that [displays](https://user-images.githubusercontent.com/50372801/177008648-ba00f964-0246-4fcb-b2a4-ac016901fdea.jpg) the name of the current track in the voice chat title.
 
 ## Others
 
