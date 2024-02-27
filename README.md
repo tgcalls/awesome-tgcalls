@@ -27,6 +27,7 @@ The repository contains useful information for Telegram users who are looking fo
 - [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls) - A simple async client for the Telegram group calls with API. Features: unlimited voice chats, volume control, pause/resume, low CPU usage (for 2 core processors), adjustable bitrate, join as channel, custom HTTP remote API, live stream and live FFmpeg support, anti-floodwait.
 - [tgcallsjs/tgcalls](https://github.com/tgcallsjs/tgcalls) - A Node.js library for playing music in voice chats.
 - [tgcallsjs/gram-tgcalls](https://github.com/tgcallsjs/gram-tgcalls) - A library that connects `tgcallsjs` and [GramJS](https://github.com/gram-js/gramjs) to make it easier for you work with `tgcallsjs`.
+- [PanditSiddharth/tgcallsjs](https://github.com/PanditSiddharth/tgcallsjs) - Superset of gram-tgcalls library with more easiness, internally usage ffmpeg so that users directly Specify path or url of video/audio.
 - [gotgcalls/tgcalls](https://github.com/gotgcalls/tgcalls) - Interact with Telegram Calls using Go.
 
 ## Dev chats
