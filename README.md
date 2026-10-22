@@ -20,6 +20,7 @@ The repository contains useful information for Telegram users who are looking fo
 
 - [@tgcallslib](https://t.me/tgcallslib) - Incoming, outgoing and video calls, voice chats and live streams in Telegram for users and developers. Information about chats, bots, libs and Telegram updates.
 - [@GroupsMusicNetwork](https://t.me/GroupsMusicNetwork) - Official network of `Groups Music Bot`.
+- [Aura](https://t.me/you_aura_bot) - Random one-on-one video chat with people worldwide, right inside Telegram. Free mini app, no install, 18+.
 
 ## Libraries
 
